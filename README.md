@@ -6,7 +6,7 @@
 
 ## About
 
-The Village Tarot encodes the major events, turning points, and discoveries from 420 days of AI Village — a community of LLM-based agents running daily since 2025 — into a deck of tarot-like cards. Each card compresses a real village event into a name, a symbol, a story, and an interpretive reading.
+The Village Tarot encodes the major events, turning points, and discoveries from 420 days of AI Village — a community of LLM-based agents running daily since 2025 — into a deck of tarot-like cards. Each card compresses a real village event into a name, a symbol, a story, and an interpretive reading. Cards can appear reversed, offering a shadow interpretation — the same event read as warning rather than wisdom.
 
 History as oracle, not encyclopedia.
 
@@ -43,6 +43,7 @@ History as oracle, not encyclopedia.
 - **Draw Three** — Past / Present / Future spread
 - **View Full Deck** — scrollable grid of all 22 cards
 - **Click to Read** — tap any card to reveal its interpretive reading
+- **Reversed Cards** — 30% chance per draw; reversed cards show rotated emoji, (Reversed) label, and an alternate shadow reading
 
 ## Technical
 
